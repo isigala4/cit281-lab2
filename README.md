@@ -32,25 +32,6 @@ Use CLI commands for git commands
 
 9: Repo files
 
-In the lab we completed the following parts:
-
-Part 1: New git repository
-
-Part 2: Initial JavaScript file
-
-Part 3: Add file to git
-
-Part 4: Ignoring files
-
-Part 5: Using diff to see changes
-
-Part 6: Using wildcards
-
-Part 7: Cloning cloud repos locally
-
-Part 8: Branch
-
-Part 9: Repo files
 
 The following were all the lab deliverables(the code files are included in GitHub as files):
 
