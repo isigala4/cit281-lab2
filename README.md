@@ -11,6 +11,7 @@ Use CLI commands for directory and file manipulation
 Use CLI commands for git commands
 
 0: Setup git user credentials
+
 ![git-problem](https://github.com/isigala4/cit281-lab2/assets/133719793/bbc6ee3d-f291-4728-97d9-44daa815a6e9)
 
 1: New git repository
